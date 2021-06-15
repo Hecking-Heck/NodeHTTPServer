@@ -1,0 +1,29 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "A small HTTP server written in NodeJS utilising the power of the Express middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hecking-Heck/NodeHTTPServer.git"
+  },
+  "keywords": [
+    "Heck",
+    "HTTP",
+    "NodeJS",
+    "Webserver",
+    "ExpressJS"
+  ],
+  "author": "Hecking Heck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hecking-Heck/NodeHTTPServer/issues"
+  },
+  "homepage": "https://github.com/Hecking-Heck/NodeHTTPServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
